@@ -1,0 +1,35 @@
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+  margin-top: 3%;
+  color: #c9d1e3;
+}
+
+.box-child {
+  background-color: #141010;
+  padding-bottom: 6.5%;
+  padding-top: 1.5%;
+  margin: 0 1rem 0 2rem;
+  display: flex;
+  justify-content: center;
+  border-radius: 2.6%;
+}
+.box-child-2 {
+  width: 70%;
+  font-size: small;
+  line-height: 1.9em;
+}
+.icons {
+  width: 15%;
+  text-align: center;
+  size: 2.4em;
+  margin-top: 0.25%;
+  margin-right: 5%;
+  padding: 2.8%;
+}
+
+h2 {
+  font-size: 1.2em;
+  padding-bottom: 0.5em;
+}
