@@ -31,7 +31,7 @@ export default function Box() {
             <h2>UNIQUE OPPURTUNITY FOR DEVELOPEMENT</h2>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit nulla quasi labore,
             suscipit inventore quo, ut impedit consequatur id velit esse aliquid maxime vitae
-            veritatis, sit debitis delectus ex iure?
+            veritatis,?
           </div>
         </div>
       </div>
